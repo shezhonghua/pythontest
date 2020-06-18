@@ -4,7 +4,7 @@
 
 3. 在启动的docker中运行代码，mybinder不会自动保存修改，空闲一段时间后，docker会自动关闭；也可以选择主动关闭
 
-4. 可以把新增的文件保存下来，再传到github，方便下一次运行
+4. 可以把新增的文件保存下来（File/Save as），再传到github或者运行中的jupyter notebook(upload)，方便下一次运行。
 
 在mybinder网站可以方便的运行notebook。也可以使用anaconda中的jupyter notebook。anaconda可以非常容易的在windows、linux、mac上安装、运行。
 
