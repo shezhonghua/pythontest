@@ -1,0 +1,7 @@
+1. 打开https://mybinder.org网站
+
+2. 在主页面中，输入github repository名字以及branch名字，选择luanch，则系统会自动启动一个docker实例
+
+3. 在启动的docker中运行代码，mybinder不会自动保存修改，空闲一段时间后，docker会自动关闭；也可以选择主动关闭
+
+4. 可以把
